@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y1d1r&label=Profile%20views&color=0e75b6&style=plastic" alt="y1d1r" /> </p>
 
-🎓 I have successfully obtained a Master's degree in Computer Vision, which has equipped me with a solid foundation in this field.
+🎓 I have successfully obtained a **Master's degree in Computer Vision**, which has equipped me with a solid foundation in this field.
 
-💻 At present, i am dedicatedly expanding my expertise by delving into advanced topics such as deep leaning and sophisticated computer vision algorithms.
+💻 At present, i am dedicatedly expanding my expertise by delving into advanced topics such as **deep leaning** and sophisticated **computer vision** algorithms.
 
-🩺🎥 I am deeply passionate about exploring the realms of medical imaging and video surveillance.
+🩺🎥 I am deeply passionate about exploring the realms of **medical imaging** and **video surveillance**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
