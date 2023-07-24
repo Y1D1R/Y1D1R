@@ -1,4 +1,5 @@
-[![MasterHead](https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif)]
+<img align="center" alt="CodingBanner" width="1000" src="https://lh3.googleusercontent.com/pw/AIL4fc_pcpysmVnE5cvwMJH34eLOPhiJ1AkxmCwlTDKdMMq4Q8EAWJwwf7gexbvq-NRL5iJlRxitPnZPFgBKPym2eN_8ayzk43Ozv7clUW-2Hfvpk0qhR2ucozR-0olc0dzqy5u3d-KaOti4waAKPRVZ3wbgOpqyI6rmuCdHIJlpKrslfMs_pryXWpPXo0M2TfVfK2QZcHUO8v1naDfcgBuyaMCy4kvDjVzciLqaBv-RodqaVZXJVgUJK6rVehKG0Yd_X5MtefmxfvZQ78O47eu2CYpIRGvycz5ut4ORY9BAj4CQrrGJwrgFiBShmra839ohVRAgxHF67R8x5QY5SSTaUVIbOlFLVWl7lBqtwZIje4WiQOaaLhfX7xkiSLEqp9Rif61nBz8ezn4KSiwySafBQptDTFn0WAikBytaSyjdryHo1Gv2PrnwOuPNsH8DvHE8XOLOgVKXjzdD84OR2a66-ztzYbmrLVDHceeoDrPeTw6RrOlMdx8AFNn4p0fBhA97gU1RSp8UiXBR_Xf0tgPcEv5i8uWyKLEHGbEwO66ord_A3RHFKS3MArdxUwtVQWKIvaxzVVPQlgqBYAqvYF0l1C9_TJIbUuKo-xr3jK9NFz5Wil-t_CLX21wJ_1ZKJZo1yy3EbZw51Q7SfB26Vg7o8acB7wpgLRsKtFuEe2bq2tGo8tWOd3oT3nSqvslVNT__ENR0HrEviyLuFotFrTL_4z_TgiaO_TULUzIcqKiHiUaCIoBwc03GU-mXHr2rcgSGXbD2bFObeoEzh1VuRdtrzo71sllLXyAJYMN_PiBL-PD54Sdb4rnX8LLTVHgu5Jn__SgR6X94jbCA55IBnRX_S_0Tv8H8_vIQaFFIVPovcHWtNOrrjwO6albr3ovILaq2jBWvvaYvpqxCl1dO2ahItw=w468-h60-s-no?authuser=0">
+
 <h1 align="center">Hi 👋, I'm Yidhir</h1>
 <h3 align="center">A passionate computer vision engineer 👁</h3>
 <img align="right" alt="Coding" width="390" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
