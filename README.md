@@ -1,3 +1,4 @@
+[![MasterHead](https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif)]
 <h1 align="center">Hi 👋, I'm Yidhir</h1>
 <h3 align="center">A passionate computer vision engineer 👁</h3>
 <img align="right" alt="Coding" width="390" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
