@@ -1,4 +1,9 @@
-<h1 align="center">👋 Hi there! I'm Yidhir KOULAL</h1>
+<p align="center">
+   <a href="#">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20👋&animation=fadeIn&height=175&section=header&theme=light@light&theme=dark@dark"/>
+   </a>
+</p>
+<h1 align="center">I'm Yidhir KOULAL</h1>
 <h3 align="center">AI Engineer • Computer Vision & ML Specialist</h3>
 
 ---
