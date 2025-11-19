@@ -50,3 +50,9 @@ Medical chatbot powered by **Retrieval-Augmented Generation** with LangChain, Hu
 
 <p align="center"><em>“AI isn’t just about intelligence — it’s about creating systems that serve and empower people.”</em></p>
 
+<p align="center">
+   <a href="#">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+   </a>
+</p>
+
