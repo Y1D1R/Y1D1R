@@ -1,0 +1,76 @@
+<svg viewBox="0 0 850 190" width="850" height="190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Object detector scanning: Yidhir detected as ai_engineer 0.99, vision 0.97, coffee 0.87, bug 0.03">
+  <style>
+    .mono { font-family: Consolas, Monaco, 'Courier New', monospace; }
+    .scan { animation: scan 8s linear infinite; }
+    @keyframes scan {
+      0%   { transform: translateX(0); opacity: .8; }
+      22%  { transform: translateX(847px); opacity: .8; }
+      24%  { opacity: 0; }
+      100% { transform: translateX(847px); opacity: 0; }
+    }
+    .det { opacity: 1; }
+    .d1 { animation: pop1 8s linear infinite; }
+    .d2 { animation: pop2 8s linear infinite; }
+    .d3 { animation: pop3 8s linear infinite; }
+    .d4 { animation: pop4 8s linear infinite; }
+    @keyframes pop1 { 0%,6% {opacity:0} 9%,92% {opacity:1} 97%,100% {opacity:0} }
+    @keyframes pop2 { 0%,13% {opacity:0} 16%,92% {opacity:1} 97%,100% {opacity:0} }
+    @keyframes pop3 { 0%,19% {opacity:0} 22%,92% {opacity:1} 97%,100% {opacity:0} }
+    @keyframes pop4 { 0%,30% {opacity:0} 33%,92% {opacity:1} 97%,100% {opacity:0} }
+    .blink { animation: blink 1.6s steps(2, start) infinite; }
+    @keyframes blink { to { visibility: hidden; } }
+    @media (prefers-reduced-motion: reduce) {
+      .scan { animation: none; opacity: 0; }
+      .d1, .d2, .d3, .d4, .blink { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <!-- fond -->
+  <rect width="850" height="190" fill="#0d1117"/>
+  <g stroke="#1b2836" stroke-width="1">
+    <path d="M0 47.5H850 M0 95H850 M0 142.5H850"/>
+    <path d="M106 0V190 M212 0V190 M318 0V190 M424 0V190 M530 0V190 M636 0V190 M742 0V190"/>
+  </g>
+
+  <!-- barre de statut -->
+  <text x="16" y="24" class="mono" font-size="12" fill="#3fb950">&#9679; yidhir_detector.py --live</text>
+  <text x="834" y="24" text-anchor="end" class="mono" font-size="12" fill="#8b949e">FPS: 60 | NPU: on</text>
+
+  <!-- ligne de scan -->
+  <rect class="scan" x="0" y="0" width="3" height="190" fill="#00e5ff"/>
+
+  <!-- nom -->
+  <text x="425" y="112" text-anchor="middle" class="mono" font-size="54" font-weight="bold" fill="#e6edf3">Yidhir</text>
+
+  <!-- ai_engineer -->
+  <g class="det d1">
+    <rect x="300" y="62" width="250" height="66" fill="none" stroke="#00e5ff" stroke-width="2"/>
+    <rect x="300" y="44" width="150" height="18" fill="#00e5ff"/>
+    <text x="306" y="57" class="mono" font-size="12" font-weight="bold" fill="#0d1117">ai_engineer 0.99</text>
+  </g>
+
+  <!-- vision -->
+  <g class="det d2">
+    <text x="150" y="160" class="mono" font-size="26" fill="#e6edf3">&#128247;</text>
+    <rect x="138" y="132" width="50" height="38" fill="none" stroke="#3fb950" stroke-width="2"/>
+    <rect x="138" y="114" width="100" height="18" fill="#3fb950"/>
+    <text x="143" y="127" class="mono" font-size="12" font-weight="bold" fill="#0d1117">vision 0.97</text>
+  </g>
+
+  <!-- coffee -->
+  <g class="det d3">
+    <text x="688" y="88" class="mono" font-size="26">&#9749;</text>
+    <rect x="678" y="60" width="48" height="38" fill="none" stroke="#ffd21e" stroke-width="2"/>
+    <rect x="678" y="42" width="100" height="18" fill="#ffd21e"/>
+    <text x="683" y="55" class="mono" font-size="12" font-weight="bold" fill="#0d1117">coffee 0.87</text>
+  </g>
+
+  <!-- detection -->
+  <g class="det d4">
+    <text x="612" y="168" class="mono" font-size="18">&#128027;</text>
+    <rect x="604" y="148" width="34" height="26" fill="none" stroke="#f85149" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="644" y="166" class="mono" font-size="11" fill="#f85149">bug 0.03 ??</text>
+  </g>
+
+  <text x="808" y="176" class="mono blink" font-size="14" fill="#00e5ff">_</text>
+</svg>
